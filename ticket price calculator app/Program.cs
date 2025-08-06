@@ -1,4 +1,5 @@
-onsole.WriteLine("=== Ticket Price Calculator ===");
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("=== Ticket Price Calculator ===");
 Console.WriteLine("Welcome! Let's calculate your ticket price based on your age.");
 Console.WriteLine();
 
@@ -51,3 +52,4 @@ else
 Console.WriteLine($"Your ticket price is: GHC {ticketPrice}");
 Console.WriteLine();
 Console.WriteLine("Thank you for using our ticket calculator!");
+
