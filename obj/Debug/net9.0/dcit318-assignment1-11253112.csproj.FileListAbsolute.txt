@@ -1,0 +1,15 @@
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/bin/Debug/net9.0/dcit318-assignment1-11253112
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/bin/Debug/net9.0/dcit318-assignment1-11253112.deps.json
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/bin/Debug/net9.0/dcit318-assignment1-11253112.runtimeconfig.json
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/bin/Debug/net9.0/dcit318-assignment1-11253112.dll
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/bin/Debug/net9.0/dcit318-assignment1-11253112.pdb
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/dcit318-assignment1-11253112.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/dcit318-assignment1-11253112.AssemblyInfoInputs.cache
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/dcit318-assignment1-11253112.AssemblyInfo.cs
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/dcit318-assignment1-11253112.csproj.CoreCompileInputs.cache
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/dcit318-assignment1-11253112.sourcelink.json
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/dcit318-assignment1-11253112.dll
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/refint/dcit318-assignment1-11253112.dll
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/dcit318-assignment1-11253112.pdb
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/dcit318-assignment1-11253112.genruntimeconfig.cache
+/Users/dzifa/Desktop/dcit318-assignment1-11253112/obj/Debug/net9.0/ref/dcit318-assignment1-11253112.dll
